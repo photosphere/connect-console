@@ -56,4 +56,4 @@ streamlit run contact_console.py --server.port 8080 --server.address=0.0.0.0
 ```
 
 #### Configuration screenshot
-
+<img width="1639" alt="console" src="https://github.com/user-attachments/assets/8bde97a3-48b4-433e-8c8b-234823477dcc">
