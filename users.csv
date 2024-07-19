@@ -1,0 +1,11 @@
+Id,Arn,Username,LastModifiedTime,LastModifiedRegion
+138d8220-ee14-4ef5-8d83-b09fad773ae4,arn:aws:connect:us-east-1:991727053196:instance/b7e4b4ed-1bdf-4b14-b624-d9328f08725a/agent/138d8220-ee14-4ef5-8d83-b09fad773ae4,Agent_Voicemail,2023-12-01 17:40:56.498000+08:00,us-east-1
+1c9fbace-c776-4b80-ad3c-d6dd287bb5ea,arn:aws:connect:us-east-1:991727053196:instance/b7e4b4ed-1bdf-4b14-b624-d9328f08725a/agent/1c9fbace-c776-4b80-ad3c-d6dd287bb5ea,Agent02_Test,2024-05-15 04:02:04.170000+08:00,us-east-1
+2707dcac-875e-475c-82d2-957ef03773da,arn:aws:connect:us-east-1:991727053196:instance/b7e4b4ed-1bdf-4b14-b624-d9328f08725a/agent/2707dcac-875e-475c-82d2-957ef03773da,AgentCase_Test,2024-06-25 16:30:20.509000+08:00,us-east-1
+3a51c522-584d-456f-b743-c50ab9154a41,arn:aws:connect:us-east-1:991727053196:instance/b7e4b4ed-1bdf-4b14-b624-d9328f08725a/agent/3a51c522-584d-456f-b743-c50ab9154a41,AgentUS_Test,2024-02-23 18:28:32.194000+08:00,us-east-1
+4da701ae-a279-47d8-8404-fee4b9699693,arn:aws:connect:us-east-1:991727053196:instance/b7e4b4ed-1bdf-4b14-b624-d9328f08725a/agent/4da701ae-a279-47d8-8404-fee4b9699693,Agent01_Test,2024-07-01 09:59:56.505000+08:00,us-east-1
+58ab96fc-62fc-4550-8b48-70792bb519df,arn:aws:connect:us-east-1:991727053196:instance/b7e4b4ed-1bdf-4b14-b624-d9328f08725a/agent/58ab96fc-62fc-4550-8b48-70792bb519df,Agent01_Chat,2024-01-09 11:57:06.952000+08:00,us-east-1
+7c3b074c-be8d-4593-8619-fdf3b005bb71,arn:aws:connect:us-east-1:991727053196:instance/b7e4b4ed-1bdf-4b14-b624-d9328f08725a/agent/7c3b074c-be8d-4593-8619-fdf3b005bb71,AgentEmail_Test,2024-06-25 16:59:30.744000+08:00,us-east-1
+c8116f91-7a03-49d0-9e27-f37df202bb31,arn:aws:connect:us-east-1:991727053196:instance/b7e4b4ed-1bdf-4b14-b624-d9328f08725a/agent/c8116f91-7a03-49d0-9e27-f37df202bb31,Agent03_Test,2024-05-15 04:04:37.629000+08:00,us-east-1
+dcdfa2fc-e69c-4ab6-8ba4-03e3c4fbf229,arn:aws:connect:us-east-1:991727053196:instance/b7e4b4ed-1bdf-4b14-b624-d9328f08725a/agent/dcdfa2fc-e69c-4ab6-8ba4-03e3c4fbf229,test_admin,2024-07-17 13:16:25.634000+08:00,us-east-1
+e24099cf-e3f0-4891-b0d8-0669d9a2915b,arn:aws:connect:us-east-1:991727053196:instance/b7e4b4ed-1bdf-4b14-b624-d9328f08725a/agent/e24099cf-e3f0-4891-b0d8-0669d9a2915b,Agent02_Chat,2024-01-09 08:52:20.044000+08:00,us-east-1
